@@ -1,0 +1,15 @@
+/Users/vanessasayurinakasone/Desktop/Dio.series/bin/Debug/net6.0/Dio.series
+/Users/vanessasayurinakasone/Desktop/Dio.series/bin/Debug/net6.0/Dio.series.deps.json
+/Users/vanessasayurinakasone/Desktop/Dio.series/bin/Debug/net6.0/Dio.series.runtimeconfig.json
+/Users/vanessasayurinakasone/Desktop/Dio.series/bin/Debug/net6.0/Dio.series.dll
+/Users/vanessasayurinakasone/Desktop/Dio.series/bin/Debug/net6.0/Dio.series.pdb
+/Users/vanessasayurinakasone/Desktop/Dio.series/obj/Debug/net6.0/Dio.series.csproj.AssemblyReference.cache
+/Users/vanessasayurinakasone/Desktop/Dio.series/obj/Debug/net6.0/Dio.series.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vanessasayurinakasone/Desktop/Dio.series/obj/Debug/net6.0/Dio.series.AssemblyInfoInputs.cache
+/Users/vanessasayurinakasone/Desktop/Dio.series/obj/Debug/net6.0/Dio.series.AssemblyInfo.cs
+/Users/vanessasayurinakasone/Desktop/Dio.series/obj/Debug/net6.0/Dio.series.csproj.CoreCompileInputs.cache
+/Users/vanessasayurinakasone/Desktop/Dio.series/obj/Debug/net6.0/Dio.series.dll
+/Users/vanessasayurinakasone/Desktop/Dio.series/obj/Debug/net6.0/refint/Dio.series.dll
+/Users/vanessasayurinakasone/Desktop/Dio.series/obj/Debug/net6.0/Dio.series.pdb
+/Users/vanessasayurinakasone/Desktop/Dio.series/obj/Debug/net6.0/Dio.series.genruntimeconfig.cache
+/Users/vanessasayurinakasone/Desktop/Dio.series/obj/Debug/net6.0/ref/Dio.series.dll
